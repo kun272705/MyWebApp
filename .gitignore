@@ -1,3 +1,4 @@
 java_packages/
+package-lock.json
 node_modules/
 tgt/
